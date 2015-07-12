@@ -9,8 +9,6 @@ This is a basic example application using [laracasts.com](http://laracasts.com) 
 
 I have taken the example a little further, and included some ajax goodness as well as taking advantage of Laravel soft deletes. I have also simplified the application, styled it a little further and made it just a list of todos, with no user filtering.
 
-Example working version of the app is here: [laraveltodoapp.csoutham.com](http://laraveltodoapp.csoutham.com).
-
 To get setup you'll need to clone this repo then...
 
 1. Run "composer update"  
